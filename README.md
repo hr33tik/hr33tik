@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hreetik Panda 👋
 
-<!--
-**hr33tik/hr33tik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses transform raw data into actionable insights through SQL, Python, Excel, and Power BI.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Marketing Analytics
+- Forecasting
+- Dashboard Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Executive Sales Dashboard
+- Marketing Mix Modeling
+- Customer Churn Prediction
+- SQL Business Case Studies
+- Excel Automation
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/hreetikpanda/
+Email: hreetikp@gmail.com
